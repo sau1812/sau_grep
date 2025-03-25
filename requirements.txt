@@ -1,4 +1,5 @@
-tensorflow==2.5.0
+tensorflow==2.12.0
+tensorflow-serving-api==2.12.0
 fastapi
 uvicorn
 joblib
@@ -6,6 +7,6 @@ scikit-learn
 pydantic
 pillow
 python-multipart
-tensorflow-serving-api==2.5.0
 matplotlib
 numpy
+starlette
